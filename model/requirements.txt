@@ -1,0 +1,10 @@
+pandas
+torch>=2.0.0
+numpy
+nltk
+transformers
+accelerate
+tqdm
+matplotlib
+torch-xla
+cloud-tpu-client
