@@ -150,7 +150,8 @@
 
 <h1>Примеры работы</h1>
 
-> <img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/80eaf5a5-84af-432e-81d3-0ca3dea2ea16" />
+> <img width="397" height="682" alt="image" src="https://github.com/user-attachments/assets/047447ff-ed53-4be3-80cd-00974f7990e2" />
+
 
 <h1>Инструкция по запуску</h1>
 
