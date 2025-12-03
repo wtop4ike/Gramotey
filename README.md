@@ -83,7 +83,7 @@
 > <img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/24ba7a80-5661-4e03-9354-13f04216a61a" />
 > Сравнение метрик
 >
-> <img width="1628" height="813" alt="image" src="https://github.com/user-attachments/assets/3c7935da-f3c1-4c7e-a3d8-4f5ab749a17f" />
+> <img width="1606" height="827" alt="image" src="https://github.com/user-attachments/assets/59af32f8-619d-4186-9ec3-3dfbd32c5156" />
 > График прогрессирования метрик
 
 
@@ -106,7 +106,7 @@
 > <img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/bfd90a7b-cce7-4f65-b1f9-9ce432df5e5f" />
 > Сравнение метрик
 > 
-> <img width="1638" height="841" alt="image" src="https://github.com/user-attachments/assets/b3c4c99b-7817-4b1a-a261-c2e0ab30b016" />
+> <img width="1677" height="854" alt="image" src="https://github.com/user-attachments/assets/8f1ddfd7-7254-4b41-bfc6-6a0263d89a53" />
 > График прогрессирования метрик
 
 
