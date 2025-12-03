@@ -80,12 +80,10 @@
 
 <h3>Графики</h3>
 
-ФОТО
-
+> <img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/24ba7a80-5661-4e03-9354-13f04216a61a" />
 > Сравнение метрик
-
-ФОТО
-
+>
+> <img width="1612" height="797" alt="image" src="https://github.com/user-attachments/assets/aff8083b-9c0d-483c-af87-6115990373c6" />
 > График прогрессирования метрик
 
 
@@ -105,12 +103,10 @@
 
 <h3>Графики</h3>
 
-> ФОТО
-
+> <img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/bfd90a7b-cce7-4f65-b1f9-9ce432df5e5f" />
 > Сравнение метрик
-
-> ФОТО
-
+> 
+> <img width="1566" height="795" alt="image" src="https://github.com/user-attachments/assets/8e434989-7867-4b55-9abe-397132d1c57a" />
 > График прогрессирования метрик
 
 
@@ -131,16 +127,16 @@
 
 <h3>Графики</h3>
 
-> ФОТО
-
+> <img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/72b64aef-a44e-4056-8734-f91af1bca11f" />
 > Сравнение метрик
-
-> ФОТО
-
+> 
+> <img width="1603" height="793" alt="image" src="https://github.com/user-attachments/assets/10f11ac1-101f-423c-a68e-7af344d4a8a1" />
 > График прогрессирования метрик
+
 
 <h2>Итоговое сравнение</h2>
 
+> <img width="1628" height="849" alt="image" src="https://github.com/user-attachments/assets/834b4fc3-f995-4196-af8c-9f1032ee674e" />
 > График итогового сравнения
 
 
@@ -154,9 +150,7 @@
 
 <h1>Примеры работы</h1>
 
-> 
-> Фото
-> 
+> <img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/80eaf5a5-84af-432e-81d3-0ca3dea2ea16" />
 
 <h1>Инструкция по запуску</h1>
 
