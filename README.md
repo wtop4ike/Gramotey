@@ -157,3 +157,10 @@
 
 > Скачайте папку model. Установите зависимости из файла requirements.txt (pip install -r requirements.txt). Запустите код run.py.
 
+
+## Лицензия
+
+[![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+
+Проект лицензирован на условиях **BSD 3-Clause License**. Вы можете свободно использовать, модифицировать и распространять этот код, при условии сохранения уведомления об авторских правах. Подробнее см. в файле [LICENSE](LICENSE).
+
